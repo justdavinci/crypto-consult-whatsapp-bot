@@ -2,5 +2,6 @@ dist/
 node_modules/
 .wwebjs_auth/
 .wwebjs_cache/
+tests/
 .env
 package-lock.json
